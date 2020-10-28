@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void pascal(int n)
+void pascal(int n) //pascal in
 {
     for (int i = 1; i <= n; i++)
     {
