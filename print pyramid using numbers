@@ -20,7 +20,7 @@ int main()
         {
             if (count <= rows-1)
             {
-                cout << i+k << " ";
+                cout << i+k << " "; //because
                 count++;
             }
             else
